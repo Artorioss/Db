@@ -1,0 +1,42 @@
+D:\Мусор\Лаб\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Мусор\Лаб\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Мусор\Лаб\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAuthorization.resources
+D:\Мусор\Лаб\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Мусор\Лаб\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Мусор\Лаб\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Мусор\Лаб\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Мусор\Лаб\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Мусор\Лаб\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Мусор\Лаб\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Мусор\Лаб\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Мусор\Лаб\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+D:\Мусор\Лаб\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Мусор\Лаб\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Мусор\Лаб\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+D:\Мусор\Лаб\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAuthorization.resources
+D:\Мусор\Лаб\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Мусор\Лаб\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Мусор\Лаб\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Мусор\Лаб\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Мусор\Лаб\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Мусор\Лаб\VERS 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Мусор\Лаб\VERS 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Мусор\Лаб\VERS 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Мусор\Лаб\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreationFormReceipts.resources
+D:\Мусор\Лаб\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditingFormReceipts.resources
+D:\Мусор\Лаб\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Мусор\Лаб 5\VERS 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Мусор\Лаб 5\VERS 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Мусор\Лаб 5\VERS 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Мусор\Лаб 5\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Мусор\Лаб 5\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Мусор\Лаб 5\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreationFormReceipts.resources
+D:\Мусор\Лаб 5\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditingFormReceipts.resources
+D:\Мусор\Лаб 5\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Мусор\Лаб 5\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+D:\Мусор\Лаб 5\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAuthorization.resources
+D:\Мусор\Лаб 5\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Мусор\Лаб 5\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Мусор\Лаб 5\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Мусор\Лаб 5\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Мусор\Лаб 5\VERS 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
